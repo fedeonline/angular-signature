@@ -15,7 +15,7 @@
     "signature"
   ],
   "dependencies": {
-    "signature_pad": "https://github.com/Streetlib/signature_pad.git#^v2.3.2"
+    "signature_pad": "https://github.com/Streetlib/signature_pad#v2.3.2"
   },
   "author": "LegalThings <info@legalthings.net>",
   "license": "MIT",
